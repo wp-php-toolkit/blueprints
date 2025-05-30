@@ -366,7 +366,7 @@ Blueprints can declare posts, pages, and other content types.
 
 The runner **MUST** use the Data Liberation importers to process the content files:
 
-https://github.com/Automattic/php-toolkit/tree/trunk/components/DataLiberation.
+https://github.com/WordPress/php-toolkit/tree/trunk/components/DataLiberation.
 
 The details of the import process are up for the Data Liberation to define and
 largely are out of scope of this WSP. One aspect that remains relevant is the
@@ -707,7 +707,7 @@ Blueprints can declare posts, pages, and other content types.
 
 The runner **MUST** use the Data Liberation importers to process the content files:
 
-https://github.com/Automattic/php-toolkit/tree/trunk/components/DataLiberation.
+https://github.com/WordPress/php-toolkit/tree/trunk/components/DataLiberation.
 
 The details of the import process are up for the Data Liberation to define and
 largely are out of scope of this WSP. One aspect that remains relevant is the

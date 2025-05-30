@@ -194,12 +194,12 @@ class Runtime {
 	 *
 	 * Exit Code: 255(Unknown error)
 	 *
-	 * Working directory: /Users/cloudnik/www/Automattic/core/plugins/wordpress-components/untracked/newsite
+	 * Working directory: /code/plugins/wordpress-components/untracked/newsite
 	 *
 	 * Output:
 	 * =================
 	 *
-	 * Fatal error: Uncaught Error: Call to a member function info() on null in /Users/cloudnik/www/Automattic/core/plugins/wordpress-components/untracked/newsite/wp-content/plugins/WordPress-Importer-master/class-wxr-importer.php on line 1561
+	 * Fatal error: Uncaught Error: Call to a member function info() on null in /code/plugins/wordpress-components/untracked/newsite/wp-content/plugins/WordPress-Importer-master/class-wxr-importer.php on line 1561
 	 *
 	 * It could be simpler, e.g.:
 	 *
